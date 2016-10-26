@@ -10,7 +10,7 @@
   "authorList": ["Baijson"],
   "credits": "M1JordanAllen & Vash505 for testing the mod.",
   "logoFile": "",
-  "screenshots": [],
+  "screenshots": ["screenshot.png"],
   "dependencies": []
 }
 ]
