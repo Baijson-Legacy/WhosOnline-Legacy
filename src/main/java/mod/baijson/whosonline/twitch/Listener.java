@@ -138,13 +138,11 @@ public class Listener {
 	 * @param streamer
 	 */
 	private void inform ( String streamer ) {
-
 		ITextComponent stream = ITextComponent.Serializer.jsonToComponent (
 			  I18n.format ( "notify.message.prefix" )
 		).appendSibling ( ITextComponent.Serializer.jsonToComponent (
 			  I18n.format ( "notify.message.stream" ).replace ( "$streamer", streamer )
 		) );
-
 		Message.show ( stream );
 	}
 
