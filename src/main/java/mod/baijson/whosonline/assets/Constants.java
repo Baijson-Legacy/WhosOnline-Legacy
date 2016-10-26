@@ -12,5 +12,5 @@ public class Constants {
 
 	static public final String WEB_BASEURL = "https://www.twitch.tv";
 	static public final String API_BASEURL = "https://api.twitch.tv/kraken";
-	static public final String API_CLIENT_ID = "kq7rfjj8ir41n4c09y54v4duw1qq30k";
+	static public final String API_CLIENT_ID = "27fx4cyfxqc4uhrftr4rbgn2a3bmwf8";
 }
