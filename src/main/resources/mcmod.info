@@ -1,0 +1,16 @@
+[
+{
+  "modid": "whosonline",
+  "name": "Who's Online!?",
+  "description": "Notify's the player when their favorite live-streamer goes online on Twitch!",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Baijson"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

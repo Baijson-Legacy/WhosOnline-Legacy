@@ -1,0 +1,8 @@
+general.errors.username=Unable to download your follower list from Twitch. you did not specify your Username.
+general.errors.clientid=Client-ID is missing. Using default Client-ID.
+
+general.inform.loaded=Successfully reloaded your follower list from Twitch.
+general.inform.loaded.empty=It seems you are not following anyone on Twitch?
+
+notify.message.prefix=[{"text":"[","color":"gold"},{"text":"Online","color":"green"},{"text":"] ","color":"gold"}]
+notify.message.stream=[{"text":"$streamer","color":"white"},{"text":" started streaming Minecraft on ","color":"white"},{"text":"Twitch","color":"dark_purple","underlined":"true","hoverEvent":{"action":"show_text","value":"Join $streamer's channel!"},"clickEvent":{"action":"run_command","value":"/whosonline $streamer"}},{"text":"! ","color":"white"}]
